@@ -298,7 +298,7 @@ for the entire app. The containers will stop and the network will be removed.
 >The Docker Dashboard does _not_ remove volumes when you delete the app stack.
 {: .warning}
 
-Once torn down, you can switch to another project, run `docker compose up` and be ready to contribute to that project! It really
+Once turned down, you can switch to another project, run `docker compose up` and be ready to contribute to that project! It really
 doesn't get much simpler than that!
 
 ## Next steps
