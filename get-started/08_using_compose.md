@@ -285,7 +285,7 @@ quickly see what container is our app and which container is the mysql database.
 
 ## Tear it all down
 
-When you're ready to tear it all down, simply run `docker compose down` or hit the trash can on the Docker Dashboard
+When you're ready to tear it all down, simply run `docker compose down` or hit the trash icon on the Docker Dashboard
 for the entire app. The containers will stop and the network will be removed.
 
 >**Warning**
